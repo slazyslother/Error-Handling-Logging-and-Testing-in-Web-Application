@@ -2,6 +2,7 @@
 
 This project involves enhancing a C++ web application by adding comprehensive error handling, implementing logging functionality, setting up alerts for critical errors using a monitoring tool, and incorporating testing to ensure the reliability and stability of the system.
 
+
 <br/>
 
 ## Features
