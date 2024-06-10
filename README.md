@@ -1,6 +1,6 @@
 # Error Handling, Logging, and Testing in Web Application
 
-This project involves enhancing a C++ web application by adding comprehensive error handling, implementing logging functionality, setting up alerts for critical errors using a monitoring tool, and incorporating testing to ensure the reliability and stability of the system.
+This project involves enhancing a web application by adding comprehensive error handling, implementing logging functionality, setting up alerts for critical errors using a monitoring tool, and incorporating testing to ensure the reliability and stability of the system.
 
 
 <br/>
@@ -26,7 +26,7 @@ This project involves enhancing a C++ web application by adding comprehensive er
 ## Implementation
 
 - __Error Handling Mechanisms__: Implement error handling logic to catch and handle exceptions, errors, and unexpected behavior gracefully. Use appropriate error codes, messages, and context information.
-- __Logging Integration__: Integrate a logging library (e.g., Log4cpp, Boost.Log) into the application codebase. Configure loggers to capture errors, warnings, debug information, and custom log messages.
+- __Logging Integration__: Integrate a logging library into the application codebase. Configure loggers to capture errors, warnings, debug information, and custom log messages.
 - __Monitoring Tool Integration__: Configure the monitoring tool to receive alerts and notifications for critical errors. Set up thresholds, triggers, and escalation policies to ensure timely response and resolution.
 - __Error Response Formats__: Define standardized error response formats with clear error codes, messages, details, and HTTP status codes. Ensure consistency across all error responses.
 
@@ -36,7 +36,7 @@ This project involves enhancing a C++ web application by adding comprehensive er
 
 - __Automated Testing__: Write unit tests, integration tests, and end-to-end tests to validate error handling, logging, and alerting functionalities.
 - __Test Scenarios__: Test various scenarios, including error conditions, logging outputs, and alert notifications.
-- __Framework__: Utilize testing frameworks like Google Test or Catch2 for writing and executing tests.
+- __Framework__: Utilize testing frameworks for writing and executing tests.
 - __Coverage Analysis__: Perform code coverage analysis to ensure that all error handling, logging, and alerting functionalities are adequately tested.
   
 <br/>
